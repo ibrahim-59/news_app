@@ -1,16 +1,7 @@
-# news
+# news_app
+## flutter app using bloc and mvm pattern
 
-A new Flutter project.
+<img src="(https://github.com/ibrahim-59/news_app/assets/116106936/f2489872-feee-4ca9-a834-e5ce0ee078bc" width="200" height="400">
+<img src="(https://github.com/ibrahim-59/news_app/assets/116106936/4020de8f-8a64-41a4-ac7e-6645f76cf949" width="200" height="400">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
